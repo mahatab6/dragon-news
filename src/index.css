@@ -6,3 +6,8 @@
 *{
     font-family: "Poppins", sans-serif;
 }
+
+.active {
+    font-size: 20px;
+    border-bottom: 2px solid black;
+  }
